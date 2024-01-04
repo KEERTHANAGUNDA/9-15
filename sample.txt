@@ -1,6 +1,1 @@
 this is a sample file
-second line
-third line 
-fourth line 
-fifth line
-sixth line
